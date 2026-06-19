@@ -1,4 +1,4 @@
-# Tata Forage Virtual Experience Program – Data Visualization
+# Tata Forage Data Visualization: Empowering Business with Effective Insights
 
 ## Overview
 
